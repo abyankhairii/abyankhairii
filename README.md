@@ -13,7 +13,7 @@
 ---
 
 ## 📊 My GitHub Stats
-<p align+"center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abyankhairii&show_icons=true&theme=tokyonight" alt="Github Stats"> 
 </p>
 
@@ -27,6 +27,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abyankhairii&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  
   <img src="https://github-profile-trophy.vercel.app/?username=abyankhairii&theme=radical&row=1&column=6" alt="Trophies" />
 </p>
 
