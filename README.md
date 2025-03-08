@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abyankhairii&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abyankhairii&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" /><br>
   
   <img src="https://github-profile-trophy.vercel.app/?username=abyankhairii&theme=radical&row=1&column=6" alt="Trophies" />
 </p>
