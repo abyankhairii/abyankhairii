@@ -1,6 +1,6 @@
 # Hello There I'm Muhammad Abyan Khairi 
 
-##My Name is Muhammad Abyan Khairi  I am An IT Undergraduated students 2023 @ USU
+## My Name is Muhammad Abyan Khairi  I am An IT Undergraduated students 2023 @ USU
 - 😄 Pronouns: He/Him
 
 ### 📫 Reach Me  
