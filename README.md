@@ -1,7 +1,5 @@
 <h1 align="center">Hello There I'm Muhammad Abyan Khairi! 👋</h1>
 
-
-<p align="center">
 ## My Name is Muhammad Abyan Khairi  I am An IT Undergraduated students 2023 @ USU
 - 😄 Pronouns: He/Him
 
