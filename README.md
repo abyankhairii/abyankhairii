@@ -20,6 +20,20 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyankhairii&layout=compact&theme=tokyonight)
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyankhairii&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyankhairii&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abyankhairii&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abyankhairii&theme=radical&row=1&column=6" alt="Trophies" />
+</p>
+
 ---
 
 <h3> ⚙️ My Programming langs & Tools </h3>
