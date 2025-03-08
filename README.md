@@ -13,7 +13,9 @@
 ---
 
 ## 📊 My GitHub Stats
-![Abyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyankhairii&show_icons=true&theme=tokyonight)
+<p align+"center">
+  ![Abyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyankhairii&show_icons=true&theme=tokyonight)
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyankhairii&theme=radical" alt="Streak Stats" />
