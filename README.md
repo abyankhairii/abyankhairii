@@ -1,6 +1,6 @@
 ## Hello
 
-My Name is Muahammad Abyan Khairi.
+My Name is Muhammad Abyan Khairi.
 
 - 🔭 I’m currently study at University of North Sumatera
 - 📫 How to reach me: 
