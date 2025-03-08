@@ -1,8 +1,12 @@
 <h1 align="center">Hello There I'm Muhammad Abyan Khairi! 👋</h1>
 
+<h3>🚀 About Me</h3>
+
 - 📌 Pronouns: He/Him
 - 📌 born on : december 31, 2005
 - 📌 Lives At : Medan, Indonesia
+
+<h3> Fun Fact </h3>
 
 #### Welcome to my GitHub profile I am An IT Undergraduated students 2023 @ USU with a deep interest in Multimedia & Design. Known as a loyal and serious person, I am committed to applying my knowledge and skills to create works that are not only innovative but also have a positive impact on myself and the surrounding environment. With skills in graphic design and digital content development, I hope to contribute to projects that support sustainability and technological innovation.
 
