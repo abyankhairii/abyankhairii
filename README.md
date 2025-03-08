@@ -13,6 +13,9 @@ My Name is Muhammad Abyan Khairi.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abyankhairii)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abyannkhairii)  
 
+### My GitHub Stats
 ![Abyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyankhairii&show_icons=true&theme=tokyonight)
+
+### My Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyankhairii&layout=compact&theme=tokyonight)
 
