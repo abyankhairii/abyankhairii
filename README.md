@@ -47,7 +47,7 @@
     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Adobe Premiere"/>
   </a>
   <a href="https://www.capcut.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/CapCut_Logo.svg" alt="CapCut" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/CapCut_Logo.svg" alt="CapCut"/>
   </a>
 </p>
 
