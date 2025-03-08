@@ -14,7 +14,7 @@
 
 ## 📊 My GitHub Stats
 <p align+"center">
-  ![Abyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyankhairii&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=abyankhairii&show_icons=true&theme=tokyonight" alt="Github Stats"> 
 </p>
 
 <p align="center">
