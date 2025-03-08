@@ -37,9 +37,21 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Premiere-9999FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="left">
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html">
+    <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Adobe Premiere"/>
+  </a>
+  <a href="https://www.capcut.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/CapCut_Logo.svg" alt="CapCut" width="48"/>
+  </a>
 </p>
 
 ---
